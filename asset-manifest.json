@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mui-table-pagination-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mui-table-pagination-demo/static/js/main.327fb633.chunk.js",
+    "main.js.map": "/mui-table-pagination-demo/static/js/main.327fb633.chunk.js.map",
+    "runtime-main.js": "/mui-table-pagination-demo/static/js/runtime-main.95f1123a.js",
+    "runtime-main.js.map": "/mui-table-pagination-demo/static/js/runtime-main.95f1123a.js.map",
+    "static/js/2.e8b04d0f.chunk.js": "/mui-table-pagination-demo/static/js/2.e8b04d0f.chunk.js",
+    "static/js/2.e8b04d0f.chunk.js.map": "/mui-table-pagination-demo/static/js/2.e8b04d0f.chunk.js.map",
+    "index.html": "/mui-table-pagination-demo/index.html",
+    "precache-manifest.87a70957ab60ff0b16dd6840eab3f834.js": "/mui-table-pagination-demo/precache-manifest.87a70957ab60ff0b16dd6840eab3f834.js",
+    "service-worker.js": "/mui-table-pagination-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mui-table-pagination-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e8b04d0f.chunk.js.LICENSE.txt": "/mui-table-pagination-demo/static/js/2.e8b04d0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f1123a.js",
+    "static/js/2.e8b04d0f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.327fb633.chunk.js"
+  ]
+}
